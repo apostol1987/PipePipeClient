@@ -42,7 +42,3 @@ jobs:
       with:
         name: app-debug
         path: PipePipeClient/app/build/outputs/apk/debug/*.apk
-
-      with:
-        name: app-debug
-        path: app/build/outputs/apk/debug/*.apk
